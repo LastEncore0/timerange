@@ -1,0 +1,10 @@
+F:\code\timerange\timerange\bin\Debug\timerange.exe.config
+F:\code\timerange\timerange\bin\Debug\timerange.exe
+F:\code\timerange\timerange\bin\Debug\timerange.pdb
+F:\code\timerange\timerange\obj\Debug\timerange.csproj.AssemblyReference.cache
+F:\code\timerange\timerange\obj\Debug\timerange.Form1.resources
+F:\code\timerange\timerange\obj\Debug\timerange.Properties.Resources.resources
+F:\code\timerange\timerange\obj\Debug\timerange.csproj.GenerateResource.cache
+F:\code\timerange\timerange\obj\Debug\timerange.csproj.CoreCompileInputs.cache
+F:\code\timerange\timerange\obj\Debug\timerange.exe
+F:\code\timerange\timerange\obj\Debug\timerange.pdb
